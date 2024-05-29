@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hoang</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on **Sun ***
+- 🔭 I’m currently working on Sun *
 
-- 🌱 I’m currently learning **FastAPI framework**
+- 🌱 I’m currently learning FastAPI framework
 
+- 💪 I'm strong backend developer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
